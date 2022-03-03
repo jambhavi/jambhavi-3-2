@@ -1,0 +1,8 @@
+Course1=("MCCS","MPCS","MECS")
+Course2=("BCA","BBA","BCOM")
+tuple=course1+course2
+Print(tuple)
+
+
+Output: 
+('MCCS','MPCS','MECS','BCA','BBA','BCOM')
